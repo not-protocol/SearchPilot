@@ -8,7 +8,7 @@ You enter one search term (for example `GPT-3`). The script combines it with a l
 GPT-3 + official documentation  ->  tab 1
 GPT-3 + GitHub repository       ->  tab 2
 GPT-3 + latest news             ->  tab 3
-...
+
 ```
 
 ## Features
